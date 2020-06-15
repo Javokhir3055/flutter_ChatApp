@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "491964080923",
+    "firebase_url": "https://chatgo-a75f2.firebaseio.com",
+    "project_id": "chatgo-a75f2",
+    "storage_bucket": "chatgo-a75f2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:491964080923:android:67a862bece7e9c6089a9be",
+        "android_client_info": {
+          "package_name": "uz.skyart450.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "491964080923-9fmqrvfreobek7ug68istl5mrbcq4a43.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA78PyI52Ga9tk4QLtrrhKgX-cU4Beuumo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "491964080923-9fmqrvfreobek7ug68istl5mrbcq4a43.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
